@@ -16,7 +16,7 @@ Vous trouverez au sein de ce repository github l'ensemble des dossier contenant 
 | Automatic unit test amplification    | 
 |[Mutation testing in JS](https://github.com/Payll/DevOps/tree/main/Stryker)|  
 | Continuous Integration and Continuous Delivery    | 
-| Bazel, Build and test software    | 
+|[Bazel, Build and test software ](https://github.com/Payll/DevOps/tree/main/bazel)   | 
        
        
 ## 🙇 Author
