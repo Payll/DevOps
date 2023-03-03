@@ -45,3 +45,7 @@ Enfin on vient build le projet et générer les dossiers :
 npm run build
 ```  
 
+## Conclusion
+Bazel s'inscrit dans le cadre d'une stratégie de continuous integration en automatisant le processus de compilation, de test et de déploiement des applications, ce qui permet de réduire les temps d'arrêt et d'accélérer la livraison des nouvelles fonctionnalités.
+
+

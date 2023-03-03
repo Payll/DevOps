@@ -21,4 +21,5 @@ A partir de là on peut si on le souhaite, personnalisé notre fichié de config
 
 De notre côté, nous avons un problème de configuration qui fait que les tests ne sont pas exécutés. Cependant nous arrivons quand même à générer les tests mutés.
 
-        
+## Conclusion
+En somme, Stryker peut aider à intégrer le processus de test dans le cycle DevOps en automatisant les tests unitaires, en améliorant la qualité des tests et en détectant les erreurs dans le code avant la mise en production.

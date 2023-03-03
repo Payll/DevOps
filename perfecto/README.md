@@ -35,12 +35,12 @@ Perfecto génère dans les 2 cas les reports d'analyse. Le testeur possède un e
 
 ![Image](./assets/tabBord.png)
 
-        
-
 ## Problèmes rencontrés
 Un premier problème est que la version gratuite de perfecto n'est disponible que sous un essai de 14 jours (bien que l'on peut créer un autre compte avec uniquement un email). 
 
 Un second problème rencontré pendant le tuto est que, s'il l'on suit le tuto sur ce lien : 
 https://help.perfecto.io/perfecto-get-started/content/perfecto/get-started/home-get-started.htm
 Il n'est pas indiqué ce qu'il faut rentrer comme "cloud name" quand on est en essai gratuit. Il faut rentrer le mot "trial".
-        
+
+## Conclusion 
+Perfecto peut aider à mettre en place du continuous integration en permettant l'automatisation des tests sur différents environnements d'exécution, en offrant un ensemble complet de fonctionnalités pour la gestion de tests et la génération de rapports de résultats. Perfecto peut également aider à la mise en place d'une intégration continue en fournissant des fonctionnalités de suivi de défauts et de génération de rapports. Les rapports de test détaillés générés par Perfecto permettent de suivre l'évolution des résultats des tests au fil du temps et de détecter rapidement les problèmes de qualité. 

@@ -1,4 +1,8 @@
 # Les TestsContainers
+## Introduction
+&nbsp;&nbsp;&nbsp;&nbsp; Les Testcontainers permettent de créer des conteneurs Docker jetables pour les tests d'intégration. Ils peuvent être utilisés pour démarrer des conteneurs Docker pour les tests et les arrêter automatiquement une fois les tests terminés.
+
+
 &nbsp;&nbsp;&nbsp;&nbsp;On a fait le choix de suivre en partie un Quickstart sur le site mais 
 aussi de chercher des informations dans la documentation afin d’essayer 
 la technologie. Pour l’utiliser, on a mis en place une base de données Redis 
@@ -31,5 +35,6 @@ On s’est ensuite aperçu que la documentation du site nous a permis de
 mieux mettre en place le projet avec la technologie, notamment au niveau des 
 imports. Afin de générer d’autres tests on a aussi cherché d’autres sources.
 
-## Utilisation
-### Liste des imports 
+## Conclusion
+&nbsp;&nbsp;&nbsp;&nbsp; Les Testcontainers peuvent aider à mettre en place du continuous integration en fournissant un environnement de test cohérent et portable pour les tests d'intégration. Ils permettent également de tester le code dans des environnements isolés, ce qui réduit le risque de dépendances système ou de conflits avec d'autres processus. Les Testcontainers peuvent être facilement intégrés dans des outils d'automatisation tels que Jenkins pour exécuter des tests d'intégration à chaque étape du pipeline de développement.
+
