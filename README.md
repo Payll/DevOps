@@ -14,7 +14,7 @@ Vous trouverez au sein de ce repository github l'ensemble des dossier contenant 
 | [Perfecto - Cloud-based Devops Testing](https://github.com/Payll/DevOps/blob/main/perfecto)| 
 | Mutation testing   | 
 | Automatic unit test amplification    | 
-| Mutation testing in JS    |  
+|[Mutation testing in JS](https://github.com/Payll/DevOps/tree/main/Stryker)|  
 | Continuous Integration and Continuous Delivery    | 
 | Bazel, Build and test software    | 
        
